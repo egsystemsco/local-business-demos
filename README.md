@@ -4,4 +4,5 @@ Private client-facing website concepts prepared by EG Systems. Pages are marked 
 
 ## Concepts
 
-- [Pearl Eyebrow Threading](./pearl-eyebrow/) — Las Vegas, Nevada
+- `pearl-eyebrow/` — Pearl Eyebrow Threading, Las Vegas
+- `lady-boss-lashes/` — Lady Boss Lash Extensions, Las Vegas
